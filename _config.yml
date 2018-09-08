@@ -20,9 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   working as an Oncology Research Associate for five years. Those skills
   are getting even stronger through Database and Data Analytics classes at
   UCSC. I am very excited about the opportunity to address your organization's
-  data analysis needs with my growing skillset.
+  data analysis needs with my growing skillset. I am looking for challenging,
+  analytical work.
 
-baseurl: "davehalvorsen.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
