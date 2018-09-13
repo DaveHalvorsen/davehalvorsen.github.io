@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mean, Median and Mode with R"
-date:   2018-09-08 1:42:40 -0700
+date:   2018-09-13 1:42:40 -0700
 categories: Math R
 ---
 
