@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "FANCD2 Suppresses ALT"
+date:   2019-01-03 22:42:40 -0700
+categories: Biology Flow_Cytometry ALT
+---
+#abstract
+fanconi anemia and bloom syndrome are genetic instability caused muttaions proteins of DNA repair and replicaiton.
+FANCD2 monoubiquinated opposes the BLM DNA helicase to hold back teloemre replication in cell sthat use ALT.
+ALT does telomeric DNA exchanges and FANCD2 suppresses tehm.
+FNACD2 depletion results in hyperALT including ECTR ECTR in APBS!
+authors think FANCD2 promoters resolutions of stalled replication forms in telomeric DNA and BLM resects them for intermolceulcer exchanges of ALT>
+
+
+# results
+FANCD2 limits telomeric DNA synthesis in ALT, but not tEL
+FANCD2 found at ALT telomeres, BUT not TEL.
+depleting fancd2 w/ two diff siRNAs resulted increased telomeric DNA content in ALT.
+FIGURE 1
+FANCA knockdown in LT also increased telomeric DNA>
+
+figure 1
+depletion FANCD2 increaes telomeric DNA in ALT, but not Teloemrase.
+B FISH G2 DNA orange. C G2 DNA
+![FANCD2_Suppresses_ALT](/assets/FANCD2_Suppresses_ALT/FANCD2_Suppresses_ALT.png)
+## incresed telomeric DNA and exhcnage thorugh BLM dependent, RAD51 indepemntdent
+90-94 % of FANCD2 foci colocalzied with TRF2 nd BLM in GM847 and VA13. RAD51 brings ALT telomeres togehter.
+codpeletion of BLM suppresses increased telomereic DNA from FANCD2.
+
+
+FIG 2B
+figure 2
+
+![FANCD2_RAD51_Suppresses_ALT](/assets/FANCD2_Suppresses_ALT/FANCD2_RAD51_Suppresses_ALT.png)
+
+# Discussion
+depletion of FANCD2 results in hyper ALT: telomeric DNA exchange, varied telomere elgnth, TIFs, ECTR, APB, telomeres and APBs. depletion of FANCD2 depletion in telomerase did not result in ALT phenotypes. inactivation of FANCD2 may be part of ALT. ; it erctainly plays a role in regulating ALT>
+
+depeltion of FANCD2 increases telomeric DNA exchanges, BUT not genomic SCEs AND that codepeltion of BLM reduces telomerics excahgnes BUT increases genomic SCEs consistent w/ data suggesting that ALT telomeric DNA exchange is diff from damage induced gnomic SCe.
+FIG 2C
+FANCD2 depletion may => more DSVBs within telomeres => increased TIFs.
+FIg 5
+ECTR DNAs in APBs are reicuh collection of recombiantion and replication interactions.
+not correct molar ratios of telomeric binding proteins.
+fig 5
+MODEL that monoubiquinated fancD2 promoters intramolecualr resolution of replications sforks that have stalled in ALT LIMITIng intermolecular exchanges. FANCD2 may recruit nucleses to cut remocnbation proudcgions.
+FANCD2 is excluded from normal capped telomeres, but promotes telomere stability in uncapped ALT cases OR generally extreme shortneing. weird telomere miantenance probably plays a role in FA.
+
+
+
+Root 2016 FANCD2 limits BLM-dependent telomere instability in the alternative lengthening of telomeres pathway
