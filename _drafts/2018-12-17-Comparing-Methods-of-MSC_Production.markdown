@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Functionally Comparing Mesenchymal Stem Cells"
-date:   2013-12-17 22:42:40 -0700
+title:  "Comparing Methods of Mesenchymal Stem Cell Production"
+date:   2018-12-17 22:42:40 -0700
 categories: Biology
 ---
-
+# Comparing Methods of Mesenchymal Stem Cell Production
 NOTE: This is a grant proposal that I drafted in 2013. It was not funded. I still have an interest in Mesenchymal Stem Cells (MSC) being used to treat osteoporosis, BUT I now have concerns that MSC therapy may lead to cancer that use the Alternative Lengthening of Telomeres mechanism. I will detail my MSC => ALT concerns in a future article.
 
 # Abstract

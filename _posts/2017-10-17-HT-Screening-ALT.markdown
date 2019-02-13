@@ -2,7 +2,7 @@
 layout: post
 title:  "High-Throughput Screening for ALT Genes"
 date:   2017-10-17 22:42:40 -0700
-categories: ALT Biology
+categories: Biology
 ---
 
 Note: This is a grant application that I co-authored with my research mentor HS.

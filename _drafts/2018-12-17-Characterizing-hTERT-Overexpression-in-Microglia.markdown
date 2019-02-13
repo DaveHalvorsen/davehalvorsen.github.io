@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Characterizing hTERT Overexpression in Microglia"
-date:   2012-12-17 22:42:40 -0700
+date:   2018-12-17 22:42:40 -0700
 categories: Biology
 ---
+# Characterizing hTERT overexpression in microglia
 NOTE: This is a grant proposal that I drafted in 2012. It was not funded. I still have an interest in microglia, but that interest has transitioned into how aged hematopoietic stem cells might play a role in dysfunctional microglia leading to Alzheimer's Disease.
 
 Alzheimer’s disease (AD) is the most frequent cause of dementia in the elderly 1 . AD is a

@@ -13,18 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: David Halvorsen <br> Data Analyst / Biologist
+title: David Halvorsen <br> Tech Support
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I have strong analysis, troubleshooting, and presentation skills from
-  working as an Oncology Research Associate for five years. Those skills
-  are getting even stronger through Database and Data Analytics classes at
-  UCSC. I am very excited about the opportunity to address your organization's
-  data analysis needs with my growing skillset. I am looking for challenging,
-  analytical work.
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davehalvorsen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://davehalvorsen.tech/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "ALT-associated Promyelocytic Body (APB) Assay"
+date:   2018-12-18 22:42:40 -0700
+categories: Biology
+---
+
+# ALT-associated Promyelocytic Body (APB) Assay
+
+The ALT-associated promyelocytic body (APB) assay was the first alternative lengthening of telomeres (ALT) assay to be developed. Prior to its discovery in 1999 (Yeager 1999), the only known criteria for determining the presence of ALT activity were long and heterogeneous telomere maintenance and undetectable telomerase activity by the TRAP assay (Yeager 1999). This assay involves testing for colocalization of telomeric DNA and promyelocytic body protein (PML).  Though PML plays a role in a variety of functions from senescence to proliferation (Lallemand-Breitenbach 2010), it is very rarely found at the telomeres (Osterwald 2011). Mortal and telomerase-positive (TEL+) cells typically have at most two or less APBs per nuclei, while established ALT-positive (ALT+) cell lines and those in the process of immortalization by ALT are reported to have in excess of four (Osterwald 2012, Yeager 1999).
+
+This has led to the use of the APB assay in the search for genes involved in ALT (Jiang 2007, Jiang 2005,Osterwald 2011) as well as for determining telomere maintenance mechanisms in patient tumor samples (Hung 2013, Venturini 2008). Detection of APBs in tumors has been reported to have prognostic significance in various types of cancer (Hung 2013,Venturini 2008). For years, different image acquisition setups, counting methods, and culture conditions have led to various numbers of APBs to be reported by different groups (Jiang 2007,Yeager 1999,Perrem 2001, Fasching 2007, Nabetani 2004). Recently, an improved method for detecting and counting APBs was reported (Osterwald 2011) in which confocal imaging and 3-D image reconstruction combined with colocalization techniques were used to determine the impact of various siRNAs on the number of APBs per cell (Osterwald 2011). Though this new 3-D assay has been exciting for the field, image acquisition alone requires about 17-34 hours per slide (384 spots) while image analysis using a multi-node supercomputer takes about 6-8 hours (23-42 hours total) and it is thus very impractical for high-throughput screening. Nonetheless, this 3-D APB assay is one of the most detailed screening analyses to date, and the key data are summarized in Figure 3 (Osterwald 2011). U2OS cells (Figure 3A) have on average 4.4 APBs per nuclei with the distribution shown in Figure 3B, with over 90% of U2OS cells having 1 or more APBs, while HeLa cells have only 0.5 APBs per nuclei on average (Figure 3C) with only about 34% of these cells containing colocalizations. Analysis of the size of both telomeres and PML in APBs shows that these are enlarged inside APBs as compared to the ones outside of these bodies (Figure 3D-E). Since the APB assay in its current format has limited investigators to screening a maximum of 9-14 genes in a single study (Jiang 2007, Osterwald 2011), we have developed an improved APB assay format optimized for high-throughput screening, which is fully described in more detail below .
+
+![APB_assay]/Assets/ALT_Synthesis_Models/APB_assay.jpg ("APB_assay")
+
+Figure 3. Current methods of detecting and counting APBs in cancer cell lines. Immunofluorescence images of APBs as reported in the literature for ALT+ U2OS cells (A).  Note that yellow indicates colocalization of PML and TRF2 in nuclei here. Published methods for automated counting of APBs have yielded statistically significant results in ALT+ U2OS (B) and TEL+ HeLa (C). The size of telomeres (D) and PML (E) in APBs is larger than in foci outside of APBs.
+
+# Citations
+Yeager, T. R. et al. Telomerase-negative immortalized human cells contain a novel type of promyelocytic leukemia (PML) body. Cancer Res. 59, 4175–4179 (1999).
+Osterwald, S. et al. A three-dimensional colocalization RNA interference screening platform to elucidate the alternative lengthening of telomeres pathway. Biotechnol J 7, 103–116 (2011).
+Jiang, W.-Q., Zhong, Z.-H., Henson, J. D. & Reddel, R. R. Identification of candidate alternative lengthening of telomeres genes by methionine restriction and RNA interference. Oncogene 26, 4635–4647 (2007).
+Jiang, W.-Q. et al. Suppression of alternative lengthening of telomeres by Sp100-mediated sequestration of the MRE11/RAD50/NBS1 complex. Mol. Cell. Biol. 25, 2708–2721 (2005).
+Hung, N. A. Telomere Maintenance Mechanisms: Prognostic and Therapeutic Implications for the Pathologist and Oncologist. Open Journal of Pathology 03, 10–20 (2013).
+Venturini, L. et al. ALT-associated promyelocytic leukaemia body (APB) detection as a reproducible tool to assess alternative lengthening of telomere stability in liposarcomas. J. Pathol. 214, 410–414 (2008).
+Hung, N. A. Telomere Maintenance Mechanisms: Prognostic and Therapeutic Implications for the Pathologist and Oncologist. Open Journal of Pathology 03, 10–20 (2013).
+Venturini, L. et al. ALT-associated promyelocytic leukaemia body (APB) detection as a reproducible tool to assess alternative lengthening of telomere stability in liposarcomas. J. Pathol. 214, 410–414 (2008).
+Jiang, W.-Q., Zhong, Z.-H., Henson, J. D. & Reddel, R. R. Identification of candidate alternative lengthening of telomeres genes by methionine restriction and RNA interference. Oncogene 26, 4635–4647 (2007).
+Yeager, T. R. et al. Telomerase-negative immortalized human cells contain a novel type of promyelocytic leukemia (PML) body. Cancer Res. 59, 4175–4179 (1999).
+Perrem, K., Colgin, L. M., Neumann, A. A., Yeager, T. R. & Reddel, R. R. Coexistence of alternative lengthening of telomeres and telomerase in hTERT-transfected GM847 cells. Mol. Cell. Biol. 21, 3862–3875 (2001).
+Fasching, C. L., Neumann, A. A., Muntoni, A., Yeager, T. R. & Reddel, R. R. DNA damage induces alternative lengthening of telomeres (ALT) associated promyelocytic leukemia bodies that preferentially associate with linear telomeric DNA. Cancer Res. 67, 7072–7077 (2007).
+Nabetani, A., Yokoyama, O. & Ishikawa, F. Localization of hRad9, hHus1, hRad1, and hRad17 and caffeine-sensitive DNA replication at the alternative lengthening of telomeres-associated promyelocytic leukemia body. J. Biol. Chem. 279, 25849–25857 (2004).
+Jiang, W.-Q., Zhong, Z.-H., Henson, J. D. & Reddel, R. R. Identification of candidate alternative lengthening of telomeres genes by methionine restriction and RNA interference. Oncogene 26, 4635–4647 (2007).
+Jiang, W.-Q. et al. Induction of alternative lengthening of telomeres-associated PML bodies by p53/p21 requires HP1 proteins. J Cell Biol 185, 797–810 (2009).
