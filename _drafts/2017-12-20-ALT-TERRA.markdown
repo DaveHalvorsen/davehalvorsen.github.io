@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "TERRA RNA Allows ALT Recombination"
+date:   2017-12-20 22:42:40 -0700
+# categories: Biology ALT
+categories: Biology
+---
+
+
+telomerase negative immortal cells use ALT_TERRAALT uses HR between telomeric repeats from independent chromosome ends
+hr repression stops alt, but HR exact mechianism not nknown
+long noncoding telomreirc RNA (TERRA) formds RNA:DNA hybrics w/ teloemric c rich strand.
+RNaseH1 and single stranded DNA binding protein RPA. required for ALT
+telomer extension required for immortal cells
+15% of human cancers are alt
+ALT telomeres ave TTAGGG)n
+heterogenous telomer eelgnth, multiple telomereas in tnuuclear bodies w/ PML. APBs.
+increased rates of teloemrei sequence exchange, eCTR, T-circles, ss C-circles and G circles.
+most ALT ATRX loss expression. HR proteins found in apbS
+RNA polymerase II makes TERRA from chormosome ends.
+ALT cell U2OS has higher TERRA than telomerase cells.
+TERRA mostly in APBs.
+there's telomer trnascriitopn in ALT.
+ALT cell suberlomeric TERRA CpG islands are hypomethylated and bound by RNAPII.
+histone H32 trimehtylated at lysine 9 is lwoer.
+unlike teloemrase, TERRA does not drop from S to G2 probably cause no ATRX.
+
+terra helps w/ telomere maintenance by vy making teloemres substrates for HR. TERRA can create recombinogenic DNA:RNA strucutres by base pairing with the C rich strand of telomeres.
+RNaseH1 dedgrades RNA within a hybrid is found at ALT teloemres
+mosreso tehan telomerase postivie cancers.
+depletion of RNAseH1 in U2OS cells causes rapid telomere loss cause HUGE telomeric circle esxcision.
+the loss of ATRX in ALT cells may be why TERRA.
+TERRA is jnot downregualted in ALT during s to g2. (TEL drops).
+telomeric hybrides after RNA removed would expose ss C-rich DNA to bind RPA. COULD. RPA at telomeres probably causin HR between telomeric sequences.
+RAD51 coated ss C rich tel DNA would be a recombinogenc complex allowing for G rich overhang binding that could jumpstart polymerase elongation of G overhang invation ... like BIR
+
+
+![ALT_TERRA](/assets/ALT_TERRA/ALT_TERRA.jpg)
+
+Arora 2015 Telomere elongation chooses TERRA ALTernatives
