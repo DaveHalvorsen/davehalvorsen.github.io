@@ -2,7 +2,7 @@
 layout: post
 title:  "Blogging with Jekyll & GitHub Pages"
 date:   2017-2-28 11:58:40 -0700
-categories: Web_Development
+categories: Web_Dev
 ---
 If you want to learn how to build a website, I *highly* recommend the [Codecademy Web Development Courses]. *BUT*, it'll take a long time to learn HTML & CSS (if that's all you plan to learn) and then it's *incredibly* boring and time-intensive to blog in those languages. That's why I chose to build my blog with the Ruby plugin [Jekyll] and host it on [GitHub Pages]. As long as you know your way around a terminal, you can write simple blog posts in [Markdown] and have Jekyll convert those into blog posts! In fact, I made this whole page in a few minutes using these techniques :) First, you'll want to install Jekyll. I use Ubuntu Linux, so I followed the [tutorial located here].
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Index.md Does Not Exist!?!"
 date:   2017-04-22 22:42:40 -0700
-categories: Web_Development Troubleshooting
+categories: Web_Dev Troubleshooting
 ---
 Manually coding the CSS and HTML for creating a website is a slow and repetitive process. I completed the [Codecademy Web Development Program] and I *highly* recommend it for anyone interested in creating websites from scratch. *But*, I already know HTML & CSS and there are plenty of code examples on my GitHub already. I just want to write articles about my career transition without having to pause and contemplate syntax. That's one of many reasons that I have chosen to use Jekyll and GitHub Pages for maintaining my website's content. Jekyll is a Ruby-based tool that takes simplified HTML, called Markdown, as input and then creates a fully-finished static website, ready to be hosted.
 

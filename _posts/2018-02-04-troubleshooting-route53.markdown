@@ -2,7 +2,7 @@
 layout: post
 title:  "Troubleshooting Route 53"
 date:   2018-02-04 22:42:40 -0700
-categories: Web_Development
+categories: Web_Dev
 ---
 I was excited to discover that www.bioinformaticsanalyst.com was not a registered domain name! I knew it'd be the perfect website for me for a couple of great reasons: I am interested in transitioning careers from biochemistry to bioinformatics. I have a bachelor's degree, so I don't qualify for bioinformatics scientist positions. However, I do qualify for most bioinformatics analyst positions. I've seen other computationally-intensive biological research jobs, like data wrangler, but I feel that "bioinformatics analyst" sounds more professional.  I decided to use Amazon Web Services for DNS routing and GitHub pages for website hosting because I see those services mentioned in job postings frequently. I've hosted sites through GoDaddy and HostGator, so I thought Route 53 would be easy, but I was wrong.
 ![Site Unavailable]({{"/assets/site_unavailable.png" | absolute_url }})
