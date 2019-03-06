@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Image Metadata on Linux"
 date:   2019-1-22 22:42:40 -0700
-categories: Linux Image_Analysis
+categories: Linux Images
 ---
 
 Metdata is data about data. For example, the metadata of an image will contain information about its creation date. I'm going to do exactly that with ImageMagick, a Linux program that can edit  and analzye images. I already have ImageMagick installed on my computer, but you could install it on a Linux system with this terminal command:
