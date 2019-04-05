@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SSH into the Raspberry Pi"
-date:   2019-04-02 11:00:40 -0700
+date:   2019-04-01 11:00:40 -0700
 categories: Raspberry_Pi Windows Linux
 ---
 

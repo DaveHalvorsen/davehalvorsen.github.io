@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Making a Print Server with SMB/SAMBA"
-date:   2019-04-04 1:00:40 -0700
+title:  "Making a Print Server with SMB (SAMBA)"
+date:   2019-04-03 1:00:40 -0700
 categories: Raspberry_Pi Troubleshooting
 ---
 

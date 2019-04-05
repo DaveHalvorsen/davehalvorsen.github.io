@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using NAT for a Pi-based WAP"
+title:  "Using NAT in a Pi-based WAP"
 date:   2019-04-04 12:00:40 -0700
 categories: Raspberry_Pi Troubleshooting
 ---

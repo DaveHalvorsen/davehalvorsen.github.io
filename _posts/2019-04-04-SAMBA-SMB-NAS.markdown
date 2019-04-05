@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Enabling NAS with SMB/SAMBA"
-date:   2019-04-05 12:00:40 -0700
+title:  "Enabling NAS with SAMBA"
+date:   2019-04-04 12:00:40 -0700
 categories: Raspberry_Pi
 ---
 
@@ -132,108 +132,44 @@ pi@raspberrypi:~ $ Connection to 192.168.1.3 closed by remote host.
 Connection to 192.168.1.3 closed.
 ```
 
-^The file still won't let me in ... weird. I'm gonna restart my computer.
+^The file still won't let me in ... weird. I'm gonna restart my computer. I have restarted my computer and rebooted my Raspberry Pi again and I still don't have access to my shared files ... why?
 
+I blindly copied the following from the tutorial. See what I did wrong yet?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I can make that change by mounting the drive as a new name, but I need to know the drive location before mounting. Here's how I did that.
-
-```console
-pi@raspberrypi:/media/pi $ sudo fdisk -l
+```
+[Backup]
+comment = Backup Folder
+path = /media/USBHDD1/shares
+valid users = @users
+force group = users
+create mask = 0660
+directory mask = 0771
+read only = no
 ```
 
-^That yields loads of lines, so I've limited things down to the 1 TB drive that I'm interested in:
+^My path is wrong ... I just copied the path from the article.
+
+Here's how I updated it to path = /media/1TB_Toshiba:
 
 ```console
-Disk /dev/sda: 931.5 GiB, 1000204886016 bytes, 1953525168 sectors
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disklabel type: dos
-Disk identifier: 0x9139ac24
-
-Device     Boot Start        End    Sectors   Size Id Type
-/dev/sda1        2048 1953523119 1953521072 931.5G  7 HPFS/NTFS/exFAT
+pi@raspberrypi:~ $ sudo mkdir /media/1TB_Toshiba
+pi@raspberrypi:~ $ sudo mount -t auto /dev/sda1 /media/1TB_Toshiba/
+Mount is denied because the NTFS volume is already exclusively opened.
+The volume may be already mounted, or another software may use it which
+could be identified for example by the help of the 'fuser' command.
+pi@raspberrypi:~ $ sudo fuser /dev/sda1
+/dev/sda1:             871
+pi@raspberrypi:~ $ sudo kill 871
+pi@raspberrypi:~ $ sudo mount -t auto /dev/sda1 /media/1TB_Toshiba
+pi@raspberrypi:~ $ sudo /etc/init.d/samba restart
+[ ok ] Restarting nmbd (via systemctl): nmbd.service.
+[ ok ] Restarting smbd (via systemctl): smbd.service.
+pi@raspberrypi:~ $ sudo nano /etc/samba/smb.conf
+pi@raspberrypi:~ $ sudo /etc/init.d/samba restart
+[ ok ] Restarting nmbd (via systemctl): nmbd.service.
+[ ok ] Restarting smbd (via systemctl): smbd.service.
 ```
 
-^I'm interested in the /dev/sda1/NTFS/exFAT drive.
+... annnnddddd that fixed it! This is why it's important to read through everything ... don't commit to an action unless you know *exactly* what will happen! Here are my shared files!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a
+![virtual-os-on-share](/assets/2019-04-05-File_Server_Raspberry/virtual-os-on-share.PNG)
