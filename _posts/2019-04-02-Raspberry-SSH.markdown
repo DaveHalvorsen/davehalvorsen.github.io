@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "SSH into the Raspberry Pi"
-date:   2019-03-06 11:00:40 -0700
-categories: Raspberry_Pi Windows
+date:   2019-04-02 11:00:40 -0700
+categories: Raspberry_Pi Windows Linux
 ---
 
 The Raspberry Pi is a fun mini-computer that you can buy for around $35. HDMI is the only display output that mine has and it's been a bummer having to hook it up to a monitor just to enter a few commands. Surprisingly only one of my monitors has an HDMI port *and* it's the center 27-inch display, so it's been a bummer having to dedicate that to the Pi.
