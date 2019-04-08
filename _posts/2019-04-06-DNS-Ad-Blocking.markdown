@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Network-Wide DNS-Level Ad Blocking"
-date:   2019-04-05 1:00:40 -0700
+date:   2019-04-06 6:30:40 -0700
 categories: Raspberry_Pi
 ---
 
@@ -135,4 +135,4 @@ Here's Buzzfeed from my phone with Pi-hole turned on:
 
 ![buzzfeed-phone-NO-ad](/assets/2019-04-05-DNS_Raspberry/buzzfeed-phone-NO-ad.png)
 
-ISN'T THIS AWESOME!!! YouTube ads still run, but apparently it's possible to block those with some clever rules ... I'll be trying that eventually. However, I'm gonna stick with AdBlock & Pi-hole working together for the time being ;)
+ISN'T THIS AWESOME?!? YouTube ads still run, but apparently it's possible to block those with some clever rules ... I'll be trying that eventually. However, I'm gonna stick with AdBlock & Pi-hole working together for the time being ;)
