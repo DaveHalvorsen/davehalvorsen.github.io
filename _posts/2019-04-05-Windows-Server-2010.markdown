@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enabling Active Directory on Windows Server 2012"
-date:   2019-04-04 1:00:40 -0700
+date:   2019-04-05 1:00:40 -0700
 categories: Windows Active_Directory
 ---
 

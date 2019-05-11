@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Network-Wide DNS-Level Ad Blocking"
-date:   2019-04-06 6:30:40 -0700
+date:   2019-05-08 6:30:40 -0700
 categories: Raspberry_Pi
 ---
 

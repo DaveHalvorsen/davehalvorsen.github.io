@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding a Computer to a Windows AD Domain"
-date:   2019-04-06 4:00:40 -0700
+date:   2019-04-27 4:00:40 -0700
 categories: Windows Active_Directory
 ---
 

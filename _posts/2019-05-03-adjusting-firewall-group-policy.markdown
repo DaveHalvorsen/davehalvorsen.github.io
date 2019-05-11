@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adjusting the AD Group Policy for Firewall"
-date:   2019-04-06 5:00:40 -0700
+date:   2019-05-03 5:00:40 -0700
 categories: Windows Active_Directory Firewall
 ---
 
